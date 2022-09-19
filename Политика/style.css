@@ -1,0 +1,33 @@
+.backdrop{
+    background: url(../image.png);
+}
+.politics{
+    font-family: 'Montserrat', sans-serif;
+   font-size: 40px;
+   font-weight: 600;
+ padding-top: 70px;
+
+}
+.general-provisions{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    font-weight: 600; 
+   margin-top: 30px;
+}
+.general-provisions-2{
+    margin-top: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: 400; 
+ 
+}
+.container{
+    width: 900px;
+    margin: 0 auto;
+}
+.general-provisions-3{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: 500; 
+    margin-top: 7px;  
+}
